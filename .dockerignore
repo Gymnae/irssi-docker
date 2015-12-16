@@ -1,0 +1,7 @@
+.git
+.gitignore
+LICENSE
+*.log
+*.md
+*.sh
+logo.png
