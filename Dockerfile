@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:3.3
 MAINTAINER Xabier de Zuazo "xabier@zuazo.org"
 
 ENV IRSSI_HOME=/home/irssi
